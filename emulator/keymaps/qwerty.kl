@@ -23,12 +23,12 @@ key 228   POUND
 key 227   STAR
 key 231   CALL              WAKE_DROPPED
 key 61    CALL              WAKE_DROPPED
-key 232   DPAD_CENTER       WAKE_DROPPED
-key 108   DPAD_DOWN         WAKE_DROPPED
-key 103   DPAD_UP           WAKE_DROPPED
+key 23   DPAD_CENTER       WAKE_DROPPED
+key 20   DPAD_DOWN         WAKE_DROPPED
+key 19   DPAD_UP           WAKE_DROPPED
 key 102   HOME              WAKE
-key 105   DPAD_LEFT         WAKE_DROPPED
-key 106   DPAD_RIGHT        WAKE_DROPPED
+key 21   DPAD_LEFT         WAKE_DROPPED
+key 22   DPAD_RIGHT        WAKE_DROPPED
 key 115   VOLUME_UP         WAKE
 key 114   VOLUME_DOWN       WAKE
 key 116   POWER             WAKE
@@ -37,11 +37,6 @@ key 212   CAMERA
 key 16    Q
 key 17    W
 key 18    E
-key 19    R
-key 20    T
-key 21    Y
-key 22    U
-key 23    I
 key 24    O
 key 25    P
 key 26    LEFT_BRACKET
